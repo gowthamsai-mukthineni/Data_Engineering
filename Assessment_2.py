@@ -7,7 +7,7 @@ def operations(num1, num2):
 result = operations(5,2)
 print(result)
 
-
+#Rectangle Area(l*b)
 def area(length, breadth):
     area = length * breadth
     perimeter = 2*(length+breadth)
@@ -15,7 +15,7 @@ def area(length, breadth):
 result = area(10,5)
 print(result)
 
-
+#  Circle Area((pi*r)**2) Circm(2*pi*r)
 def a1(radius):
     pi = 3.14
     circle_area = (pi*radius)**2
@@ -24,7 +24,7 @@ def a1(radius):
 r1 = a1(20)
 print(r1)
 
-
+#Simple Intrest(P * R * T)/100
 def intrest(principle_amount, rate_of_intrest, time):
     simple_intrest = (principle_amount * rate_of_intrest * time)/ 100
     return simple_intrest
