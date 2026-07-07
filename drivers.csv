@@ -1,0 +1,11 @@
+driver_id,driver_name,city,rating,rating_bonus
+1,john smith,Charlotte,4.9,490.00000000000006
+2,alice johnson,Atlanta,4.7,470.0
+3,michael brown,Dallas,4.4,440.00000000000006
+4,james wilson,Charlotte,4.8,480.0
+5,emma davis,Houston,4.3,430.0
+6,david miller,Atlanta,4.6,459.99999999999994
+7,sophia moore,Dallas,4.2,420.0
+8,daniel taylor,Charlotte,4.95,495.0
+9,olivia anderson,Unknown,4.5,450.0
+10,jacob thomas,Miami,4.75,475.0

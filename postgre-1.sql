@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS public.customers CASCADE;
+		DROP TABLE IF EXISTS public.customers CASCADE;
 DROP TABLE IF EXISTS public.transactions  CASCADE;
 DROP TABLE IF EXISTS public.accounts ;
 

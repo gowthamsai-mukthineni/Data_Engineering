@@ -1,0 +1,39 @@
+Assessment_3
+
+1
+list - Ordered, Changeable, collection of multiple items that allows duplicates [].
+num1 = [10,20,30]
+
+Tuple - Tuple is same as list but not it cannot be changed once created ,cannot be added or even removed ().
+num2= (10,20,30)
+
+Set - Set(mutable) stores Unordered multiple items but it dosent allow any duplicates.It will automatically removes duplicate values{}.
+num3= {10,20,30}
+
+
+Dict - It stores the data in key:Value pair.Each key is used to maniplaute the data
+student = {"name": "Gowtham", "marks": 95}
+
+2
+
+Sets -They are used to remove dplicate values in the real world
+
+ 1.Resume Filtering(Removes duplicate resumes)
+ 2.Website Information(Stores the data only one time if entered 2nd time it will be removed.)
+ 3.IDs - Creating unique id for each person
+
+3
+Ordered- Have fixed positions
+Unordered - Do not have fixed positions.position can change if we print them
+
+Mutable datatype - Values can be changed after creation.
+Immutable datatype - Values cannot be changed after creation.
+
+Mutable Collections
+ List
+ Set
+ Dictionary
+Immutable Collections
+  Tuple
+ String
+"""
